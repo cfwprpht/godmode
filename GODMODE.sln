@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "godmode", "godmode\debug.vcxproj", "{0BED683D-368E-4929-9282-1F960D2536A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Release|ORBIS = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BED683D-368E-4929-9282-1F960D2536A2}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{0BED683D-368E-4929-9282-1F960D2536A2}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{0BED683D-368E-4929-9282-1F960D2536A2}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{0BED683D-368E-4929-9282-1F960D2536A2}.Release|ORBIS.Build.0 = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
